@@ -1,2 +1,2 @@
-# my-resume
+# My resume
 my copi website
